@@ -51,6 +51,10 @@ An interactive Power BI dashboard analyzing 44 years of Apple Inc. stock data �
 - `YoY Annual Return %` — Year-over-Year return percentage
 
 ### Page 2 — Technical Analysis
+
+
+![Page 2](Image/page2.png).
+
 - `Avg Daily Return %` — Average daily price change
 - `Maximum Volatility` — Highest single-day High-Low range %
 - `Bullish Days Count` — Days where Close > Open
@@ -62,6 +66,9 @@ An interactive Power BI dashboard analyzing 44 years of Apple Inc. stock data �
 - `Volatility` — Daily High-Low volatility %
 
 ### Page 3 — Dividend Analysis
+
+![Page 3](Image/page3.png).
+
 - `Total Dividend Paid` — Sum of all dividends
 - `Average Dividend` — Mean dividend per payment
 - `Dividend Growth %` — Growth from first to latest dividend
@@ -70,6 +77,8 @@ An interactive Power BI dashboard analyzing 44 years of Apple Inc. stock data �
 ---
 
 ## 📈 Key Insights
+
+![Page 4](Image/page4.png).
 
 - **CAGR ~16%** — One of the highest long-term returns in stock market history
 - **Best Year:** 2019 (+88.9% return)
@@ -82,10 +91,14 @@ An interactive Power BI dashboard analyzing 44 years of Apple Inc. stock data �
 
 ## 🗂️ Data Modeling
 
-- `AppleStockPrice` ↔ `AppleStockDividend` — Linked via **Date** column (Many-to-One)
+- `AppleStockPrice` ↔ `AppleStockDividend` — Linked via **Date** column (One-to-One)
 - Slicers: Year, Month, Quarter — filter all visuals across pages interactively
 
 ---
+
+## 📊 Power BI File
+
+📥 [Download Dashboard (.pbix)](Apple_Stock_Analysis.pbix)
 
 ## 🚀 How to Open
 
@@ -99,4 +112,5 @@ An interactive Power BI dashboard analyzing 44 years of Apple Inc. stock data �
 
 **Ishika Verma**  
 Data Analyst | Power BI | SQL | Python  
-[LinkedIn Profile](#) <!-- Add your LinkedIn URL here -->
+[LinkedIn Profile](#) <!-- https://www.linkedin.com/in/ishika-verma-4b60bb3aa -->
+
