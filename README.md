@@ -1,4 +1,3 @@
-# Apple-Stock-Analysis-PowerBI
 # 🍎 Apple Stock Analysis Dashboard (1980–2024)
 
 An interactive Power BI dashboard analyzing 44 years of Apple Inc. stock data — covering price trends, volatility, technical indicators, and dividend history.
@@ -40,6 +39,9 @@ An interactive Power BI dashboard analyzing 44 years of Apple Inc. stock data �
 ## 📐 DAX Measures Created
 
 ### Page 1 — Stock Overview
+
+![Page 1](page 1.png)
+
 - `Latest Close Price` — Most recent closing price
 - `All Time High` — Maximum price since 1980
 - `All Time Low` — Minimum price since 1980
