@@ -40,7 +40,7 @@ An interactive Power BI dashboard analyzing 44 years of Apple Inc. stock data �
 
 ### Page 1 — Stock Overview
 
-![Page 1](page 1.png)
+![Page 1](Image/page 1.png)
 
 - `Latest Close Price` — Most recent closing price
 - `All Time High` — Maximum price since 1980
