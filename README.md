@@ -159,7 +159,7 @@ An interactive Power BI dashboard built to analyze **44 years of Apple Inc. stoc
 
 ## 📊 Power BI File
 
-📥 [Download Dashboard (.pbix)](PowerBI File/New_Apple_stock_Analysis.pbix)
+📥 [Download Dashboard (.pbix)](PowerBIFile/New_Apple_stock_Analysis.pbix)
 
 
 
