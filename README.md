@@ -1,5 +1,10 @@
 # 🍎 Apple Stock Analysis Dashboard (1980–2024)
 
+![Dashboard Overview](image/Dashboard.gif)
+
+An interactive Power BI dashboard…
+
+
 An interactive Power BI dashboard built to analyze **44 years of Apple Inc. stock market data (1980–2024)**. This project combines financial analysis, technical indicators, and investment insights with dynamic DAX-driven interactivity.
 
 ---
@@ -57,7 +62,7 @@ An interactive Power BI dashboard built to analyze **44 years of Apple Inc. stoc
 
 ## 📌 Page 1 – Apple Stock Performance Overview
 
-![Page 1](Image/page1.png)
+![Page 1](image/page1.png)
 
 ### KPIs
 
@@ -78,7 +83,7 @@ An interactive Power BI dashboard built to analyze **44 years of Apple Inc. stoc
 
 ## 📌 Page 2 – Technical Analysis
 
-![Page 2](Image/page2.png)
+![Page 2](image/page2.png)
 
 ### KPIs
 
@@ -99,7 +104,7 @@ An interactive Power BI dashboard built to analyze **44 years of Apple Inc. stoc
 
 ## 📌 Page 3 – Dividend & Investment Analysis
 
-![Page 3](Image/page3.png)
+![Page 3](image/page3.png)
 
 ### KPIs
 
@@ -117,7 +122,7 @@ An interactive Power BI dashboard built to analyze **44 years of Apple Inc. stoc
 
 ## 📌 Page 4 – Key Insights & Conclusion
 
-![Page 4](Image/page4.png)
+![Page 4](image/page4.png)
 
 ### Key Insights
 
